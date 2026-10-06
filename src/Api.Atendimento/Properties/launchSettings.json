@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "Api.Atendimento": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "launchUrl": "swagger",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:55972;http://localhost:55973"
+    }
+  }
+}
